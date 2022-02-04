@@ -1,0 +1,34 @@
+﻿  Main.cpp
+C:\Users\poornima\Documents\cs\2nd sem\cs308\nuwaraeliya carnival\nuwaraeliyaCarnival\nuwaraeliyaCarnival\Main.cpp(540,16): warning C4805: '==': unsafe mix of type 'GLboolean' and type 'bool' in operation
+C:\Users\poornima\Documents\cs\2nd sem\cs308\nuwaraeliya carnival\nuwaraeliyaCarnival\nuwaraeliyaCarnival\Main.cpp(556,16): warning C4805: '==': unsafe mix of type 'GLboolean' and type 'bool' in operation
+C:\Users\poornima\Documents\cs\2nd sem\cs308\nuwaraeliya carnival\nuwaraeliyaCarnival\nuwaraeliyaCarnival\Main.cpp(573,16): warning C4805: '==': unsafe mix of type 'GLboolean' and type 'bool' in operation
+C:\Users\poornima\Documents\cs\2nd sem\cs308\nuwaraeliya carnival\nuwaraeliyaCarnival\nuwaraeliyaCarnival\Main.cpp(589,16): warning C4805: '==': unsafe mix of type 'GLboolean' and type 'bool' in operation
+C:\Users\poornima\Documents\cs\2nd sem\cs308\nuwaraeliya carnival\nuwaraeliyaCarnival\nuwaraeliyaCarnival\Main.cpp(606,16): warning C4805: '==': unsafe mix of type 'GLboolean' and type 'bool' in operation
+C:\Users\poornima\Documents\cs\2nd sem\cs308\nuwaraeliya carnival\nuwaraeliyaCarnival\nuwaraeliyaCarnival\Main.cpp(2496,22): warning C4805: '==': unsafe mix of type 'GLboolean' and type 'bool' in operation
+C:\Users\poornima\Documents\cs\2nd sem\cs308\nuwaraeliya carnival\nuwaraeliyaCarnival\nuwaraeliyaCarnival\Main.cpp(2556,22): warning C4805: '==': unsafe mix of type 'GLboolean' and type 'bool' in operation
+C:\Users\poornima\Documents\cs\2nd sem\cs308\nuwaraeliya carnival\nuwaraeliyaCarnival\nuwaraeliyaCarnival\Main.cpp(2616,24): warning C4805: '==': unsafe mix of type 'GLboolean' and type 'bool' in operation
+C:\Users\poornima\Documents\cs\2nd sem\cs308\nuwaraeliya carnival\nuwaraeliyaCarnival\nuwaraeliyaCarnival\Main.cpp(2676,23): warning C4805: '==': unsafe mix of type 'GLboolean' and type 'bool' in operation
+C:\Users\poornima\Documents\cs\2nd sem\cs308\nuwaraeliya carnival\nuwaraeliyaCarnival\nuwaraeliyaCarnival\Main.cpp(2920,33): warning C4805: '==': unsafe mix of type 'GLboolean' and type 'bool' in operation
+C:\Users\poornima\Documents\cs\2nd sem\cs308\nuwaraeliya carnival\nuwaraeliyaCarnival\nuwaraeliyaCarnival\Main.cpp(2934,33): warning C4805: '==': unsafe mix of type 'GLboolean' and type 'bool' in operation
+C:\Users\poornima\Documents\cs\2nd sem\cs308\nuwaraeliya carnival\nuwaraeliyaCarnival\nuwaraeliyaCarnival\Main.cpp(2941,35): warning C4805: '==': unsafe mix of type 'GLboolean' and type 'bool' in operation
+C:\Users\poornima\Documents\cs\2nd sem\cs308\nuwaraeliya carnival\nuwaraeliyaCarnival\nuwaraeliyaCarnival\Main.cpp(2948,36): warning C4805: '==': unsafe mix of type 'GLboolean' and type 'bool' in operation
+C:\Users\poornima\Documents\cs\2nd sem\cs308\nuwaraeliya carnival\nuwaraeliyaCarnival\nuwaraeliyaCarnival\Main.cpp(2955,31): warning C4805: '==': unsafe mix of type 'GLboolean' and type 'bool' in operation
+C:\Users\poornima\Documents\cs\2nd sem\cs308\nuwaraeliya carnival\nuwaraeliyaCarnival\nuwaraeliyaCarnival\Main.cpp(2962,31): warning C4805: '==': unsafe mix of type 'GLboolean' and type 'bool' in operation
+C:\Users\poornima\Documents\cs\2nd sem\cs308\nuwaraeliya carnival\nuwaraeliyaCarnival\nuwaraeliyaCarnival\Main.cpp(2969,33): warning C4805: '==': unsafe mix of type 'GLboolean' and type 'bool' in operation
+C:\Users\poornima\Documents\cs\2nd sem\cs308\nuwaraeliya carnival\nuwaraeliyaCarnival\nuwaraeliyaCarnival\Main.cpp(2976,32): warning C4805: '==': unsafe mix of type 'GLboolean' and type 'bool' in operation
+C:\Users\poornima\Documents\cs\2nd sem\cs308\nuwaraeliya carnival\nuwaraeliyaCarnival\nuwaraeliyaCarnival\Main.cpp(2983,26): warning C4805: '==': unsafe mix of type 'GLboolean' and type 'bool' in operation
+C:\Users\poornima\Documents\cs\2nd sem\cs308\nuwaraeliya carnival\nuwaraeliyaCarnival\nuwaraeliyaCarnival\Main.cpp(2999,25): warning C4805: '==': unsafe mix of type 'GLboolean' and type 'bool' in operation
+C:\Users\poornima\Documents\cs\2nd sem\cs308\nuwaraeliya carnival\nuwaraeliyaCarnival\nuwaraeliyaCarnival\Main.cpp(3011,24): warning C4805: '==': unsafe mix of type 'GLboolean' and type 'bool' in operation
+C:\Users\poornima\Documents\cs\2nd sem\cs308\nuwaraeliya carnival\nuwaraeliyaCarnival\nuwaraeliyaCarnival\Main.cpp(3013,23): warning C4805: '==': unsafe mix of type 'GLboolean' and type 'bool' in operation
+C:\Users\poornima\Documents\cs\2nd sem\cs308\nuwaraeliya carnival\nuwaraeliyaCarnival\nuwaraeliyaCarnival\Main.cpp(3023,30): warning C4805: '==': unsafe mix of type 'GLboolean' and type 'bool' in operation
+C:\Users\poornima\Documents\cs\2nd sem\cs308\nuwaraeliya carnival\nuwaraeliyaCarnival\nuwaraeliyaCarnival\Main.cpp(3034,57): warning C4805: '==': unsafe mix of type 'GLboolean' and type 'bool' in operation
+C:\Users\poornima\Documents\cs\2nd sem\cs308\nuwaraeliya carnival\nuwaraeliyaCarnival\nuwaraeliyaCarnival\Main.cpp(3045,79): warning C4805: '==': unsafe mix of type 'GLboolean' and type 'bool' in operation
+C:\Users\poornima\Documents\cs\2nd sem\cs308\nuwaraeliya carnival\nuwaraeliyaCarnival\nuwaraeliyaCarnival\Main.cpp(3072,26): warning C4805: '==': unsafe mix of type 'GLboolean' and type 'bool' in operation
+C:\Users\poornima\Documents\cs\2nd sem\cs308\nuwaraeliya carnival\nuwaraeliyaCarnival\nuwaraeliyaCarnival\Main.cpp(3078,27): warning C4805: '==': unsafe mix of type 'GLboolean' and type 'bool' in operation
+C:\Users\poornima\Documents\cs\2nd sem\cs308\nuwaraeliya carnival\nuwaraeliyaCarnival\nuwaraeliyaCarnival\Main.cpp(3080,32): warning C4805: '==': unsafe mix of type 'GLboolean' and type 'bool' in operation
+C:\Users\poornima\Documents\cs\2nd sem\cs308\nuwaraeliya carnival\nuwaraeliyaCarnival\nuwaraeliyaCarnival\Main.cpp(3117,22): warning C4805: '==': unsafe mix of type 'GLboolean' and type 'bool' in operation
+C:\Users\poornima\Documents\cs\2nd sem\cs308\nuwaraeliya carnival\nuwaraeliyaCarnival\nuwaraeliyaCarnival\Main.cpp(3124,24): warning C4805: '==': unsafe mix of type 'GLboolean' and type 'bool' in operation
+C:\Users\poornima\Documents\cs\2nd sem\cs308\nuwaraeliya carnival\nuwaraeliyaCarnival\nuwaraeliyaCarnival\Main.cpp(3145,18): warning C4805: '==': unsafe mix of type 'GLboolean' and type 'bool' in operation
+C:\Users\poornima\Documents\cs\2nd sem\cs308\nuwaraeliya carnival\nuwaraeliyaCarnival\nuwaraeliyaCarnival\Main.cpp(3158,18): warning C4805: '==': unsafe mix of type 'GLboolean' and type 'bool' in operation
+C:\Users\poornima\Documents\cs\2nd sem\cs308\nuwaraeliya carnival\nuwaraeliyaCarnival\nuwaraeliyaCarnival\Main.cpp(3175,18): warning C4805: '==': unsafe mix of type 'GLboolean' and type 'bool' in operation
+  nuwaraeliyaCarnival.vcxproj -> C:\Users\poornima\Documents\cs\2nd sem\cs308\nuwaraeliya carnival\nuwaraeliyaCarnival\Debug\nuwaraeliyaCarnival.exe
