@@ -9,7 +9,7 @@
 #define TEXTURE_COUNT 29
 
 
-GLUquadric* quad;
+GLUquadric * quad;
 
 using namespace std;
 
@@ -137,35 +137,35 @@ void loadTextures()
     BitMapFile* image[TEXTURE_COUNT];
 
     // Load images
-    image[0] = getbmp("treebark.bmp");
-    image[1] = getbmp("grassmeadow.bmp");
-    image[2] = getbmp("grassmeadow.bmp");
-    image[3] = getbmp("grassmeadow.bmp");
-    image[4] = getbmp("up.bmp");
-    image[5] = getbmp("gravel.bmp");
-    image[6] = getbmp("nightsky.bmp");
-    image[7] = getbmp("gregory.bmp");
-    image[8] = getbmp("floor.bmp");
-    image[9] = getbmp("blackred.bmp");
-    image[10] = getbmp("redwhite.bmp");
-    image[11] = getbmp("pink.bmp");
-    image[12] = getbmp("red-metal.bmp");
-    image[13] = getbmp("brickwall.bmp");
-    image[14] = getbmp("bush.bmp");
-    image[15] = getbmp("treebush.bmp");
-    image[16] = getbmp("pinkblue.bmp");
-    image[17] = getbmp("pinkorange.bmp");
-    image[18] = getbmp("kottume.bmp");
-    image[19] = getbmp("icecramlogo.bmp");
-    image[20] = getbmp("pizzahut.bmp");
-    image[21] = getbmp("icecreamadd.bmp");
-    image[22] = getbmp("srilanka.bmp");
-    image[23] = getbmp("skydrop.bmp");
-    image[24] = getbmp("fence.bmp");
-    image[25] = getbmp("orange.bmp");
-    image[26] = getbmp("pizzahutadd.bmp");
-    image[27] = getbmp("kottumeadd.bmp");
-    image[28] = getbmp("airline.bmp");
+    image[0] = getbmp("./bmpImages/treebark.bmp");
+    image[1] = getbmp("./bmpImages/grassmeadow.bmp");
+    image[2] = getbmp("./bmpImages/grassmeadow.bmp");
+    image[3] = getbmp("./bmpImages/grassmeadow.bmp");
+    image[4] = getbmp("./bmpImages/up.bmp");
+    image[5] = getbmp("./bmpImages/gravel.bmp");
+    image[6] = getbmp("./bmpImages/nightsky.bmp");
+    image[7] = getbmp("./bmpImages/gregory.bmp");
+    image[8] = getbmp("./bmpImages/floor.bmp");
+    image[9] = getbmp("./bmpImages/blackred.bmp");
+    image[10] = getbmp("./bmpImages/redwhite.bmp");
+    image[11] = getbmp("./bmpImages/pink.bmp");
+    image[12] = getbmp("./bmpImages/red-metal.bmp");
+    image[13] = getbmp("./bmpImages/brickwall.bmp");
+    image[14] = getbmp("./bmpImages/bush.bmp");
+    image[15] = getbmp("./bmpImages/treebush.bmp");
+    image[16] = getbmp("./bmpImages/pinkblue.bmp");
+    image[17] = getbmp("./bmpImages/pinkorange.bmp");
+    image[18] = getbmp("./bmpImages/kottume.bmp");
+    image[19] = getbmp("./bmpImages/icecramlogo.bmp");
+    image[20] = getbmp("./bmpImages/pizzahut.bmp");
+    image[21] = getbmp("./bmpImages/icecreamadd.bmp");
+    image[22] = getbmp("./bmpImages/srilanka.bmp");
+    image[23] = getbmp("./bmpImages/skydrop.bmp");
+    image[24] = getbmp("./bmpImages/fence.bmp");
+    image[25] = getbmp("./bmpImages/orange.bmp");
+    image[26] = getbmp("./bmpImages/pizzahutadd.bmp");
+    image[27] = getbmp("./bmpImages/kottumeadd.bmp");
+    image[28] = getbmp("./bmpImages/airline.bmp");
 
 
 
@@ -2459,10 +2459,8 @@ void spotLight1()
 
   /*  if(amb3 == true){glLightfv( GL_LIGHT2, GL_AMBIENT, light_ambient);}
     else{glLightfv( GL_LIGHT2, GL_AMBIENT, no_light);}
-
     if(diff3 == true){glLightfv( GL_LIGHT2, GL_DIFFUSE, light_diffuse);}
     else{glLightfv( GL_LIGHT2, GL_DIFFUSE, no_light);}
-
     if(spec3 == true){glLightfv( GL_LIGHT2, GL_SPECULAR, light_specular);}
     else{glLightfv( GL_LIGHT2, GL_SPECULAR, no_light);} */
 
@@ -2519,10 +2517,8 @@ void spotLight2()
 
   /*  if(amb3 == true){glLightfv( GL_LIGHT2, GL_AMBIENT, light_ambient);}
     else{glLightfv( GL_LIGHT2, GL_AMBIENT, no_light);}
-
     if(diff3 == true){glLightfv( GL_LIGHT2, GL_DIFFUSE, light_diffuse);}
     else{glLightfv( GL_LIGHT2, GL_DIFFUSE, no_light);}
-
     if(spec3 == true){glLightfv( GL_LIGHT2, GL_SPECULAR, light_specular);}
     else{glLightfv( GL_LIGHT2, GL_SPECULAR, no_light);} */
 
@@ -2579,10 +2575,8 @@ void spotLight3()
 
   /*  if(amb3 == true){glLightfv( GL_LIGHT2, GL_AMBIENT, light_ambient);}
     else{glLightfv( GL_LIGHT2, GL_AMBIENT, no_light);}
-
     if(diff3 == true){glLightfv( GL_LIGHT2, GL_DIFFUSE, light_diffuse);}
     else{glLightfv( GL_LIGHT2, GL_DIFFUSE, no_light);}
-
     if(spec3 == true){glLightfv( GL_LIGHT2, GL_SPECULAR, light_specular);}
     else{glLightfv( GL_LIGHT2, GL_SPECULAR, no_light);} */
 
@@ -2639,10 +2633,8 @@ void spotLight4()
 
   /*  if(amb3 == true){glLightfv( GL_LIGHT2, GL_AMBIENT, light_ambient);}
     else{glLightfv( GL_LIGHT2, GL_AMBIENT, no_light);}
-
     if(diff3 == true){glLightfv( GL_LIGHT2, GL_DIFFUSE, light_diffuse);}
     else{glLightfv( GL_LIGHT2, GL_DIFFUSE, no_light);}
-
     if(spec3 == true){glLightfv( GL_LIGHT2, GL_SPECULAR, light_specular);}
     else{glLightfv( GL_LIGHT2, GL_SPECULAR, no_light);} */
 
@@ -3123,7 +3115,7 @@ void animate()
 
     if (orbiterFlag == true)
     {
-        orbiterTheta += 3;
+        orbiterTheta += 5;
         if (orbiterTheta > 360.0)
             orbiterTheta -= 360.0 * floor(theta / 360.0);
 
